@@ -1,0 +1,15 @@
+C:\projects\UDPSocketChat\bin\Debug\net6.0\UDPSocketChat.exe
+C:\projects\UDPSocketChat\bin\Debug\net6.0\UDPSocketChat.deps.json
+C:\projects\UDPSocketChat\bin\Debug\net6.0\UDPSocketChat.runtimeconfig.json
+C:\projects\UDPSocketChat\bin\Debug\net6.0\UDPSocketChat.dll
+C:\projects\UDPSocketChat\bin\Debug\net6.0\UDPSocketChat.pdb
+C:\projects\UDPSocketChat\obj\Debug\net6.0\UDPSocketChat.csproj.AssemblyReference.cache
+C:\projects\UDPSocketChat\obj\Debug\net6.0\UDPSocketChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\UDPSocketChat\obj\Debug\net6.0\UDPSocketChat.AssemblyInfoInputs.cache
+C:\projects\UDPSocketChat\obj\Debug\net6.0\UDPSocketChat.AssemblyInfo.cs
+C:\projects\UDPSocketChat\obj\Debug\net6.0\UDPSocketChat.csproj.CoreCompileInputs.cache
+C:\projects\UDPSocketChat\obj\Debug\net6.0\UDPSocketChat.dll
+C:\projects\UDPSocketChat\obj\Debug\net6.0\refint\UDPSocketChat.dll
+C:\projects\UDPSocketChat\obj\Debug\net6.0\UDPSocketChat.pdb
+C:\projects\UDPSocketChat\obj\Debug\net6.0\UDPSocketChat.genruntimeconfig.cache
+C:\projects\UDPSocketChat\obj\Debug\net6.0\ref\UDPSocketChat.dll
